@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
-  <title id="title">Renault 5 Turbo 3E â€” interactive WebGL tribute</title>
+  <title id="title">Renault 5 Turbo 3E — interactive WebGL tribute</title>
   <desc id="desc">Editorial case-study cover with a minimal pixel vehicle silhouette and cinematic sequence marks.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2A3140" opacity=".45"/></pattern>
@@ -19,8 +19,7 @@
     <rect x="465" y="105" width="31" height="8" fill="#FF784F"/><rect x="77" y="202" width="55" height="10" fill="#F6B349"/>
   </g>
   <rect x="64" y="527" width="470" height="10" fill="#273042"/><rect x="64" y="527" width="331" height="10" fill="#FF784F"/>
-  <text x="64" y="568" fill="#A8A296" font-family="monospace" font-size="16">SEQUENCE Â· CAMERA Â· LIGHT Â· ANNOTATION</text>
-  <text x="1216" y="578" text-anchor="end" fill="#7A96FF" font-family="monospace" font-size="16">RAÃšL IGLESIAS JULIOS</text>
+  <text x="64" y="568" fill="#A8A296" font-family="monospace" font-size="16">SEQUENCE · CAMERA · LIGHT · ANNOTATION</text>
+  <text x="1216" y="578" text-anchor="end" fill="#7A96FF" font-family="monospace" font-size="16">RAÚL IGLESIAS JULIOS</text>
   <rect x="1020" y="64" width="196" height="196" fill="url(#dither)"/>
 </svg>
-
