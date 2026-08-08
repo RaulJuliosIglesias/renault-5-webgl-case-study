@@ -1,6 +1,6 @@
-<img src="./assets/cover.svg" alt="Renault 5 Turbo 3E WebGL tribute â€” case study cover" width="100%">
+<img src="./assets/cover.svg" alt="Renault 5 Turbo 3E WebGL tribute — case study cover" width="100%">
 
-# Renault 5 Turbo 3E â€” interactive WebGL tribute
+# Renault 5 Turbo 3E — interactive WebGL tribute
 
 A personal, fan-made experiment that turns a vehicle into a cinematic object to explore. The live experience combines a guided sequence, twenty-plus annotated points of interest, multilingual navigation and optional sound.
 
@@ -39,11 +39,10 @@ Product pages often flatten a three-dimensional object into a gallery of disconn
 
 ## Craft
 
-`Three.js` Â· `WebGL` Â· `Cinematic camera` Â· `Interactive annotations` Â· `Responsive UI`
+`Three.js` · `WebGL` · `Cinematic camera` · `Interactive annotations` · `Responsive UI`
 
 ## Credits and rights
 
-This repository documents a personal design and development experiment. It does not redistribute the private project source or proprietary vehicle assets. Screenshots and case-study artwork are Â© RaÃºl Iglesias Julios unless otherwise noted.
+This repository documents a personal design and development experiment. It does not redistribute the private project source or proprietary vehicle assets. Screenshots and case-study artwork are © Raúl Iglesias Julios unless otherwise noted.
 
-â€” [Live experience](https://showroomcar-alpha.vercel.app/) Â· [Back to the profile](https://github.com/RaulJuliosIglesias)
-
+— [Live experience](https://showroomcar-alpha.vercel.app/) · [Back to the profile](https://github.com/RaulJuliosIglesias)
