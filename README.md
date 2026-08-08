@@ -1,4 +1,4 @@
-<img src="./assets/cover.svg" alt="Renault 5 Turbo 3E WebGL tribute — case study cover" width="100%">
+<img src="./assets/cover.png" alt="Matte pixel-art scene of a black-and-white Renault 5 Turbo 3E tribute in a coastal night studio, with an explorer standing beside it" width="100%">
 
 # Renault 5 Turbo 3E — interactive WebGL tribute
 
@@ -27,9 +27,13 @@ Product pages often flatten a three-dimensional object into a gallery of disconn
 - English, Spanish and French interface options.
 - Controls for the cinematic sequence, annotations, car visibility and sound.
 
-## System map
+## System flow
 
-<img src="./assets/system-map.svg" alt="Input flows into a cinematic controller, a WebGL scene, annotations and the final visitor experience" width="100%">
+1. The visitor chooses the guided cinematic sequence or free exploration.
+2. Navigation, language, sound and visibility controls update the experience state.
+3. The cinematic controller coordinates camera movement, progress and the active view.
+4. The Three.js/WebGL scene and point-of-interest layer respond to that shared state.
+5. The visitor can return to the sequence or continue inspecting annotated details independently.
 
 ## Interaction notes
 
